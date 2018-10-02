@@ -1,1 +1,1 @@
-# CSE
+# CSE Girraffe
